@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1491247550 source:c:\users\omarm\dropbox\codeblocks proyects\ejercicio 47\main.cpp
+	<iostream>
+	"Nodo.h"
+	"Lista.h"
+
+1491247910 c:\users\omarm\dropbox\codeblocks proyects\ejercicio 47\include\nodo.h
+	<iostream>
+
+1491247438 c:\users\omarm\dropbox\codeblocks proyects\ejercicio 47\include\lista.h
+	"Lista.h"
+	"Nodo.h"
+
+1491247751 source:c:\users\omarm\dropbox\codeblocks proyects\ejercicio 47\src\lista.cpp
+	"Lista.h"
+
+1491246004 source:c:\users\omarm\dropbox\codeblocks proyects\ejercicio 47\src\nodo.cpp
+	"Nodo.h"
+
